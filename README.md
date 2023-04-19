@@ -19,7 +19,7 @@ mensagens nos números de telefones previamente cadastrado dos alunos.
 
 #### **Arquitetura**:
 
-O sistema é subdividido em duas vertentes sendo o backend que possuí toda a lógica e regra de negócio bem como a comunicação com o banco de dados e o front que é por onde o usuário (professor) poderá acessar sua conta ou se registrar e gerenciar suas turmas; Através do front também será possível escrever mensagens que seram enviadas para os meios de comunicação do aluno de modo centralizado.
+O sistema é subdividido em duas vertentes sendo o backend que possuí toda a lógica e regra de negócio bem como a comunicação com o banco de dados e o front que é por onde o usuário poderá acessar sua conta ou se registrar e gerenciar suas turmas; Através do front também será possível escrever mensagens que seram enviadas para os meios de comunicação do aluno de modo centralizado.
 
 #### **Integrantes**:
 * Beatriz Santos Moreira da Silva RA: 1903376

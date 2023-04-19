@@ -6,10 +6,9 @@ sem a necessidade real se possuir seus contatos ou fazer esse processoo manualme
 
 
 #### *Integrantes*:
-
-Beatriz Santos Moreira da Silva RA: 1903376
-Luiza Vitória Araujo RA: 1902653
-Rodrigo Siliunas Cunha RA: 1904036
-Silvio Rodrigo do Nascimento Carvalho RA: 1902873
-Thais Goneli RA: 1901384
-Thiago Falcão RA: 1903912
+* Beatriz Santos Moreira da Silva RA: 1903376
+* Luiza Vitória Araujo RA: 1902653
+* Rodrigo Siliunas Cunha RA: 1904036
+* Silvio Rodrigo do Nascimento Carvalho RA: 1902873
+* Thais Goneli RA: 1901384
+* Thiago Falcão RA: 1903912
